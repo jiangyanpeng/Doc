@@ -592,3 +592,4 @@ Hexagon 是高通公司数字信号处理器 (DSP) 产品系列的品牌名称�
     // next prefetches will just add 1 row
     L2FETCH_PARA = CreateL2pfParam(dptr->srcStride, dptr->srcWidth, 1, 0);
     ```
+https://zhuanlan.zhihu.com/p/473724533
