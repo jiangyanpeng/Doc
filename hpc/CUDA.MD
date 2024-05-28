@@ -1,6 +1,6 @@
 # CUDA c++
 - GPU和CPU异构计算：计算密集型->GPU, 逻辑流控制->CPU
-
+(https://github.com/ifromeast/cuda_learning)
 ## CUDA Workflow
 ### CUDA的典型工作流
   1. 先把数据从CPU内存拷贝到GPU显存上
